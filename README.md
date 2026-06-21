@@ -1,1 +1,3 @@
-Case-Based Reasoning untuk Putusan MA
+# Sistem Case-Based Reasoning untuk Prediksi Putusan Hukum
+
+Repositori ini memuat pipeline lengkap pengembangan sistem Case-Based Reasoning (CBR) yang mencakup tahapan akuisisi data, representasi kasus, retrieval kasus, reuse solusi, dan evaluasi model. Sistem dirancang untuk mendukung analisis putusan hukum dengan memanfaatkan kemiripan kasus terdahulu sebagai dasar rekomendasi penyelesaian kasus baru. Dataset yang digunakan berasal dari perkara pidana Penipuan dan Penggelapan pada Pengadilan Negeri Sidoarjo.
