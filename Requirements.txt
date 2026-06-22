@@ -1,0 +1,18 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+pdfminer.six
+PyPDF2
+tqdm
+scikit-learn
+matplotlib
+seaborn
+nltk
+transformers
+sentence-transformers
+torch
+
+OCR Tools:
+sudo apt install poppler-utils tesseract-ocr tesseract-ocr-ind
